@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.18.0-rc\880ad30d2b249a7591c195c2392646f1b146c139\google-http-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="880ad30d2b249a7591c195c2392646f1b146c139">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\google-http-client-1.18.0-rc_62205d7a867e7f548b195f764f20880523990321.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\butterknife-7.0.1_d50f2625a2b5094f184fbc50d6bc26b29ebcb7c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.0.2_fd54440cf64372f30f8b4bf068d4d37195ae4cc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\okhttp-3.3.0_3042494678b3ef2eff5fdb7f654844617681d586.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.daksh\loglr\1.1.1\jars\libs\signpost-core-1.2.1.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="03bbf05fe72f64a0428b75fdc8ba5e3156643525">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\signpost-core-1.2.1.2_c7809fec1d9850b9b7e3269d2f471522bc15d1c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="81d41e53c215976ce172b9f61ef1e8fc2d67cf79">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.github.chrisbanes-PhotoView-1.3.0_eb42ad9a9187334d905fad1bbce89a63fb58fe26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\picasso-2.5.2_8713910515c1fc291cc4db92b8e099ac551445d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_086afb9a1af08f41fbe0cc9adc4b22a8166fec9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_125fc5e32e4e27503896c2c076bb010a92b5fddf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\okio-1.8.0_eaf2466b161356ed481825075155e8014c62e854.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.0.2_13139ea36ff6ea3602f785a5ed88ca6390f82f8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-crash-9.0.2_30c47e1b2ef1da6e87956e71daa92b2b03e7cce7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_841f2edfcd21893dd3a2ab497696552a8feb4a59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_a89d895718022e0f76a938e22981829a966a3871.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-24.2.0_04fdcdff82ddb3f5dc9c7eb02e9196d491919597.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.18.0-rc\30281a66559f60a491748974ac17cec3483b873\google-oauth-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="030281a66559f60a491748974ac17cec3483b873">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\google-oauth-client-1.18.0-rc_db55d0ba115e6eb697f6d3f09f92c86e7e715fc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\gson-2.7_e588ef11c8c2c2f3274011a75ef1294622067530.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\library-2.4.0_2aa6a98f6f4c7b40ccea5f7648552e0c4e7d3525.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\org.scribe\scribe\1.3.3\b2629cfaa5499c805f471c5aabd711ff5d42c061\scribe-1.3.3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b2629cfaa5499c805f471c5aabd711ff5d42c061">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\scribe-1.3.3_1ec16a9c83851899056dae14fb94a48bffb86b3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_43edbf77ca713b4237a974a9b9f43df2f40f5e27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.18.0-rc\45b0d00b78197d8a3047751443c09538117d188b\google-api-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45b0d00b78197d8a3047751443c09538117d188b">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\google-api-client-1.18.0-rc_8ef3bd0b745aa136ad9df3949f6c07203cb0892e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.daksh\loglr\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2e0ea49712019d799eee93eeabacae611627329d">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.daksh-loglr-1.1.1_4bdae50c9a1710a99866c915672b601931ef26fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_afd32968077e11a3135ded4ff2521eb35610c2bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.melnykov-floatingactionbutton-1.3.0_855d2fe5495a43049181531a6b2aa3e6f36cfa86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.tumblr\jumblr\0.0.11\cc28f45f445b021389290bfadac0f8f8299f4371\jumblr-0.0.11.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="cc28f45f445b021389290bfadac0f8f8299f4371">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\jumblr-0.0.11_d32d7fb83677f56da4c564dfd97351d755cb8636.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_8141452692ec3013edfdebf313752a8775a4e673.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.0_77a8a15ab78ecc7bf894ad1afd3196d00fb9c3e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.0.2_7ec7daa1301549e920a8c59f60f6f2fcae54fde4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.0.2_af9290d112cde80491a14cab36f955fb7b51a320.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.0.2_bf61fc83d37a32227f53f27734cbc31c70841a2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_94b6292bf8b2ca75f761e3700e81d1bf5ca1527f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_26b369f9c4968be271180ad00d659f1490694786.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_faa2acd043629377383c51f029e14766b72222be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.1\905075e6c80f206bbe6cf1e809d2caa69f420c76\commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\commons-lang3-3.1_f91afcb8b5c5b41205c8e6c5a4b6467e11354d81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.daksh\loglr\1.1.1\jars\libs\signpost-commonshttp4-1.2.1.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="91d0598fe39d7b61a8a00ff2b6b26eb9d1bd994e">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\signpost-commonshttp4-1.2.1.2_fdbfabfd56021ee13f206e9d053e0247d139e317.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_b4eb22815b78ae79dcd271bb65a8e47c75671c27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_26debce92fc526eb59a0fbafd493f37093a3a949.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-codec\commons-codec\1.4\commons-codec-1.4.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\commons-codec-1.4_e71e706232fae9e0c25c51a733a472daba4f64c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\converter-gson-2.1.0_1fd9c98b3be4bba0ddf87e92a008920bb6137397.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\retrofit-2.1.0_9b1cb1d6087aad6a604f4cf1a32e0adc1faed0d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_7b57328dae1414f8be5b77a370ee82924e08e88a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.0_98780ee1be912c465eb19d688157ce42d892682c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\jsr305-1.3.9_475446aa4536fbb9aed717df53cd5881f3f507f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_8bd07842b0466028ad92f7750fedff1a00a14206.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_746889446f7b6ef6fd7bb1efc7d2b3abe5a78d74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.0.2_a202956c0bd5b1971ace8f3126d367545d1c1164.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Lucas Leabres\My Projects\rubylite\Swish\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.0.2_ff050d63260ad67e955c31d2e728c8d59b97a6bb.jar" />
+    </item>
+
+</items>
